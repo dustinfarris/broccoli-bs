@@ -1,0 +1,28 @@
+{
+  "name": "broccoli-bs",
+  "version": "0.0.1",
+  "description": "Use browser sync in your broccoli pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinfarris/broccoli-bs.git"
+  },
+  "keywords": [
+    "broccoli-plugin",
+    "browser-sync"
+  ],
+  "author": "Dustin Farris <dustin@farris.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dustinfarris/broccoli-bs/issues"
+  },
+  "homepage": "https://github.com/dustinfarris/broccoli-bs#readme",
+  "dependencies": {
+    "broccoli-diffing-writer": "^0.0.1",
+    "browser-sync": "^2.18.11",
+    "string.prototype.endswith": "^0.2.0"
+  }
+}
