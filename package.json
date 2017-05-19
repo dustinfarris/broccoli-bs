@@ -1,6 +1,6 @@
 {
   "name": "broccoli-bs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Use browser sync in your broccoli pipeline",
   "main": "index.js",
   "scripts": {
