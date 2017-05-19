@@ -1,5 +1,7 @@
 # broccoli-bs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dustinfarris/broccoli-bs.svg)](https://greenkeeper.io/)
+
 Launch browser-sync and listen for changes.
 
 ## Installation
